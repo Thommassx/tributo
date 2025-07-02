@@ -1,6 +1,6 @@
 # Thomas Edward York
 ---
-![images].(https://github.com/user-attachments/assets/34a93e28-f694-49ee-9cc4-c693fce203ba)
+![images](https://github.com/user-attachments/assets/34a93e28-f694-49ee-9cc4-c693fce203ba)
 
 
 ## Biografia de Thom Yorke
@@ -17,11 +17,11 @@ Fundado em 1985, o Radiohead ganhou fama mundial com o álbum **"OK Computer"** 
 
 - **Álbuns icônicos**:
     - *The Bends* (1995)
-    ![images].(https://github.com/user-attachments/assets/2936e02c-0be2-472d-ba03-14e2746abe2f)
+    ![images](https://github.com/user-attachments/assets/2936e02c-0be2-472d-ba03-14e2746abe2f)
     - *Ok Computer* (2000)
-    ![images].(https://github.com/user-attachments/assets/8e3b8653-85a8-460f-8c96-69541cb7a625)
+    ![images](https://github.com/user-attachments/assets/8e3b8653-85a8-460f-8c96-69541cb7a625)
     - *In Rainbows* (2007)
-    ![images].(https://github.com/user-attachments/assets/8bf53143-a5ba-480f-85f5-482db1dffd3e)
+    ![images](https://github.com/user-attachments/assets/8bf53143-a5ba-480f-85f5-482db1dffd3e)
 
 
 ---
